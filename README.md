@@ -10,4 +10,4 @@ The data set that contains information about Rockbuster's film inventory, custom
 
 ### Tools
 
-For this project, PostgreSQL Database was used.
+For this project, PostgreSQL Database - pgadmin4 was used.
